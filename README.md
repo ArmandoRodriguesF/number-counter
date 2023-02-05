@@ -1,4 +1,4 @@
-# SP - personnel-system.dev!
-Sistema de Pessoal
+# NC - number-counter.dev!
+Contador de Número
 
-Sistema para controle de pessoas licenciadas no devido ano de licenciamento obrigatório.
+Sistema para contagem de números.
